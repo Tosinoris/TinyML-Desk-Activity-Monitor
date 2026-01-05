@@ -5,7 +5,7 @@
 
 // ============== THINGSPEAK CONFIG ==============
 const char* thingSpeakServer = "http://api.thingspeak.com/update";
-const char* writeAPIKey = "JBDC5QUMXKC6CTRZ";
+const char* writeAPIKey = "#################";
 unsigned long lastThingSpeakUpdate = 0;
 const unsigned long thingSpeakInterval = 15000;
 
