@@ -67,7 +67,7 @@ Channel ID: 3200846
 
 ## Author
 
-[Your Name] - Northumbria University
+Tosin Akinwoye - Northumbria University
 Module: LD7182 - AI for IoT
 
 ## License
